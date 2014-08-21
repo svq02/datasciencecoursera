@@ -1,4 +1,8 @@
 
+## This is a markdown file
+
+# Additional heading examples, and their latex equivalents
+
 # Heading (\section*)
 ## Secondary heading (\subsection*)
 ### Tertiary heading (\subsubsection*)
