@@ -6,7 +6,7 @@
 Unordered lists (\begin{itemize}):
 * first
 * second
-** second.1
-*third
+- second.1
+* third
 
 
